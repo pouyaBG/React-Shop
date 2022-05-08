@@ -2,7 +2,7 @@
 
 # • Product management
 
-This app is like a simple online shopping cart which you can filter, search, sort and add or remove item. Implement by HTML, CSS and React.js . In this project I used React Context for state management and implemented search and filter component. This project has been implemented in a responsive design. You can see live in this link and also see source code on Github.
+This app is like a simple online shopping cart which you can filter, search, sort and add or remove item. Implement by HTML, CSS and React.js . In this project I used React Context for state management and implemented search and filter component. This project has been implemented in a responsive design. You can see live in this [online](https://react-shop-xi.vercel.app/)
 
 # Getting Started with Create React App
 
