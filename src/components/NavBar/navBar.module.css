@@ -1,0 +1,31 @@
+/** @format */
+
+.navBar {
+  width: 100%;
+  background-color: #bebebe;
+  height: 60px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 0 20px 20px;
+}
+
+.navBar h2 {
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+}
+
+.navBar span {
+  margin-left: 20px;
+  display: inline-block;
+  width: 20px;
+  font-size: 14px;
+  height: 20px;
+  background-color: #d0c7f7;
+  color: #6d28d9;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
